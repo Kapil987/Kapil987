@@ -1,21 +1,21 @@
 [![MasterHead](https://simplecoding.dev/assets/devops.gif)](https://github.com/Kapil987)
 <h1 align="center">Hi 👋, I'm Kapil</h1>
-<h3 align="center">A passionate DevOps Engineer from India</h3>
+<h3 align="center">A passionate Engineer by choice</h3>
 
 <h1>
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=0FF700&center=true&vCenter=true&width=1400&height=120&lines=🔧+Building+pipelines+so+smooth,+they+practically+butter+your+toast+🍞;🤝+Let's+connect+🌐" alt="Typing SVG" /> </a>
 </h1>
 
-- 🔭 I’m currently working on [Terraform Hands-On](https://github.com/Kapil987/terraform_prac)
+- 🔭 I’m currently working on [pythonForMlops](https://github.com/Kapil987/pythonForMlops.git)
 
-- 🌱 I’m currently learning **DevOps Best Practices**
+- 🌱 I’m currently learning **GenAI and MLOps**
 
 - 👯 I’m looking to collaborate on [Docker and Kubernetes](https://github.com/Kapil987/docker_projects)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Kapil987](https://github.com/Kapil987)
 
-- 💬 Ask me about **BitBucket | AWS | Python | Terraform | Docker | Jenkins | Kubernetes | Ansible**
+- 💬 Ask me about **GenAI | MlOps | BitBucket | AWS | Python | Terraform | Docker | Jenkins | Kubernetes | Ansible**
 
 - 📫 How to reach me **kapil0123@gmail.com**
 
