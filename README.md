@@ -11,8 +11,6 @@
 
 - 💬 Ask me about **GenAI | MlOps | BitBucket | AWS | Python | Terraform | Docker | Jenkins | Kubernetes | Ansible**
 
-- 📫 How to reach me **kapil0123@gmail.com**
-
 - 📄 Know about my experiences [https://www.linkedin.com/in/kapil0123/](https://www.linkedin.com/in/kapil0123/)
 
 <h3 align="left">Connect with me:</h3>
